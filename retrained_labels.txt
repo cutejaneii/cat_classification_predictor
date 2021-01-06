@@ -1,0 +1,8 @@
+american_short
+black
+black_white
+blue
+eng_short
+normal
+orange
+white
