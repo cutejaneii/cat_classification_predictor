@@ -13,7 +13,9 @@ python retrain.py \
   
 ### Predict Cat Category
 python label_image.py predict/white001.jpg
+
 Result:
+
 白貓 (score = 0.57062)
 美短貓 (score = 0.19097)
 虎斑貓 (score = 0.16022)
