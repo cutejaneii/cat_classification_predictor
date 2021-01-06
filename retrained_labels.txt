@@ -1,8 +1,8 @@
-american_short
-black
-black_white
-blue
-eng_short
-normal
-orange
-white
+美短貓
+黑貓
+賓士貓
+藍貓
+英短貓
+虎斑貓
+橘貓
+白貓
