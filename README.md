@@ -10,6 +10,7 @@ python retrain.py \
   --output_graph=retrained_graph.pb \
   --output_labels=retrained_labels.txt
   
+ We got the image_list as ['blue', 'eng short', 'black white', 'normal', 'black', 'orange', 'american short', 'white']
   
 ### Predict Cat Category
 python label_image.py predict/white001.jpg
