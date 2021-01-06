@@ -1,6 +1,6 @@
 # cat_classification_predictor
 
-## Train Model
+### Train Model
 python retrain.py \
   --image_dir=cat_photos \
   --bottleneck_dir=bottlenecks \
@@ -11,5 +11,8 @@ python retrain.py \
   --output_labels=retrained_labels.txt
   
   
-## Predict Cat Category
+### Predict Cat Category
 python predict.py predict/amer003.jpg
+
+### Doc
+可參考:https://ithelp.ithome.com.tw/articles/10189949
